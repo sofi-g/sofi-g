@@ -4,10 +4,9 @@ Welcome to my GitHub! I'm Sofi, currently studying my third year of Computer Sci
 I have used languages like Haskell, C, Python, Scala, SQL in university projects. 
 Through self-study I have been building a solid foundation in both frontend and backend technologies and languages and I'm currently learning ReactJs. 
 
-You can contact me 📫
+Contact me 📫
 
  [LinkedIn Profile](https://www.linkedin.com/in/sofia-galfre) | 
- [Email](sofigalfre@gmail.com) | 
  [Telegram](https://t.me/sofigalfre) 
 
 <!--
