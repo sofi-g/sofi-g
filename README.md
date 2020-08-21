@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Sofi  👋 
+
+Welcome to my GitHub! I'm Sofi, currently studying my third year of Computer Science at FaMAF - UNC (Córdoba, Argentina). 
+I have used languages like Haskell, C, Python, Scala, SQL in university projects. 
+Through self-study I have been building a solid foundation in both frontend and backend technologies and languages and I'm currently learning ReactJs. 
+
+You can contact me 📫
+
+ [LinkedIn Profile](https://www.linkedin.com/in/sofia-galfre) | 
+ [Email](sofigalfre@gmail.com) | 
+ [Telegram](https://t.me/sofigalfre) 
 
 <!--
 **sofi-g/sofi-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
