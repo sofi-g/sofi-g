@@ -1,8 +1,12 @@
 ### Hi there! I'm Sofi  👋 
 
 Welcome to my GitHub! I'm Sofi, currently studying my third year of Computer Science at FaMAF - UNC (Córdoba, Argentina). 
-I have used languages like Haskell, C, Python, Scala, MySql in university projects. 
-Through self-study I have been building a solid foundation in both frontend and backend technologies and languages and I'm currently learning ReactJs. 
+I have used languages like Haskell, C, Python, Scala, MySql, Javascript in university projects. 
+Through self-study I have been building a solid foundation in both frontend and backend technologies and languages.
+
+I'm currently working in a company collaborating with the
+migration of an web application to Typescript, ReactJS
+and Redux. 
 
 Contact me 📫
 
